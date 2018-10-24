@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/suoiccc/development/C++/Axis/server/init.h
+sys/socket.h
+-
+iostream
+-
+cstdio
+-
+netinet/in.h
+-
+unistd.h
+-
+csignal
+-
+sys/wait.h
+-
+sys/select.h
+-
+signalHandler.h
+/Users/suoiccc/development/C++/Axis/server/signalHandler.h
+messageHandler.h
+/Users/suoiccc/development/C++/Axis/server/messageHandler.h
+
+/Users/suoiccc/development/C++/Axis/server/main.cpp
+init.h
+/Users/suoiccc/development/C++/Axis/server/init.h
+
+/Users/suoiccc/development/C++/Axis/server/messageHandler.h
+map
+-
+string
+-
+algorithm
+-
+unordered_map
+-
+
+/Users/suoiccc/development/C++/Axis/server/signalHandler.h
+

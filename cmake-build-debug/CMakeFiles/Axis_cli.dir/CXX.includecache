@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/suoiccc/development/C++/Axis/cli/init.h
+iostream
+-
+cstdio
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+sys/select.h
+-
+unistd.h
+-
+sendMessage.h
+/Users/suoiccc/development/C++/Axis/cli/sendMessage.h
+
+/Users/suoiccc/development/C++/Axis/cli/main.cpp
+init.h
+/Users/suoiccc/development/C++/Axis/cli/init.h
+
+/Users/suoiccc/development/C++/Axis/cli/sendMessage.h
+

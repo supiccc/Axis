@@ -1,0 +1,4 @@
+/Users/suoiccc/development/C++/Axis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/suoiccc/development/C++/Axis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/suoiccc/development/C++/Axis/cmake-build-debug/CMakeFiles/Axis_cli.dir
+/Users/suoiccc/development/C++/Axis/cmake-build-debug/CMakeFiles/Axis_server.dir
